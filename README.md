@@ -4,7 +4,7 @@ Meu nome é Gabriel Lacerda, tenho 13 anos e sou dev senior na Google Enterprise
 
 ## Sobre mim
 
-<img src="https://i.gifer.com/7MBO.gif" />
+<img src="https://images6.fanpop.com/image/photos/41600000/Kiki-kikis-delivery-service-41607535-540-300.gif" />
 
 ## Minhas skills que já sou senior dev junior masters
 
