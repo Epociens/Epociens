@@ -4,7 +4,7 @@ Meu nome é Gabriel Lacerda, tenho 13 anos e sou dev senior na Google Enterprise
 
 ## Sobre mim
 
-<img src="https://media.tenor.com/KA3HnnIeqksAAAAd/kikis-delivery-service-ghibli.gif" />
+<img src="https://i.pinimg.com/originals/79/75/55/797555922a719c6a4082158d3f1a51f4.gif" />
 
 Sou estudante de Sistemas de Informação na Uninassau. Estou no 3 período e espero aprender CRUD MongoDB com Rest API e Strapi
 API Restful.
